@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523490274 source:c:\users\gabriel__\desktop\p1\main.c
+	<stdio.h>
+	<direct.h>
+	<winsock2.h>
+

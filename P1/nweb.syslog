@@ -1,0 +1,56 @@
+ INFO: Servidor Web iniciando:(null):0
+ INFO: Servidor Web iniciando:(null):0
+ INFO: Servidor Web iniciando:(null):0
+ INFO: request:GET /mundo.png HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8**DNT: 1**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:1
+ INFO: SEND:mundo.png:1
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: image/webp,image/apng,image/*,*/*;q=0.8**DNT: 1**Referer: http://10.20.152.77/mundo.png**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:2
+ INFO: SEND:favicon.ico:2
+ INFO: request:GET /mundo.png HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8**DNT: 1**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:3
+ INFO: SEND:mundo.png:3
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: image/webp,image/apng,image/*,*/*;q=0.8**DNT: 1**Referer: http://10.20.152.77/mundo.png**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:4
+ INFO: SEND:favicon.ico:4
+SORRY: failed to read browser request:
+ INFO: Servidor Web iniciando:(null):0
+ INFO: request:GET /mundo.png HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8**DNT: 1**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:1
+ INFO: SEND:mundo.png:1
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: image/webp,image/apng,image/*,*/*;q=0.8**DNT: 1**Referer: http://10.20.152.77/mundo.png**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:2
+ INFO: SEND:favicon.ico:2
+ INFO: request:GET /teste.html HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8**DNT: 1**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:3
+ INFO: SEND:teste.html:3
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: image/webp,image/apng,image/*,*/*;q=0.8**DNT: 1**Referer: http://10.20.152.77/teste.html**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:4
+ INFO: SEND:favicon.ico:4
+ INFO: Servidor Web iniciando:(null):0
+ INFO: request:GET /teste.html HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8**DNT: 1**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:1
+ INFO: SEND:teste.html:1
+ INFO: request:GET /mundo.png HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: image/webp,image/apng,image/*,*/*;q=0.8**DNT: 1**Referer: http://10.20.152.77/teste.html**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:2
+ INFO: SEND:mundo.png:2
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**Pragma: no-cache**Cache-Control: no-cache**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: image/webp,image/apng,image/*,*/*;q=0.8**DNT: 1**Referer: http://10.20.152.77/teste.html**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:3
+ INFO: SEND:favicon.ico:3
+ INFO: request:GET /teste.ht HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8**DNT: 1**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:4
+ INFO: SEND:teste.ht:4
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: image/webp,image/apng,image/*,*/*;q=0.8**DNT: 1**Referer: http://10.20.152.77/teste.ht**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:5
+ INFO: SEND:favicon.ico:5
+SORRY: failed to read browser request:
+ INFO: Servidor Web iniciando:(null):0
+ INFO: request:GET /teste.ht HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8**DNT: 1**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:1
+ INFO: SEND:teste.ht:1
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: image/webp,image/apng,image/*,*/*;q=0.8**DNT: 1**Referer: http://10.20.152.77/teste.ht**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:2
+ INFO: SEND:favicon.ico:2
+ INFO: Servidor Web iniciando:(null):0
+ INFO: request:GET /teste.HTML HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8**DNT: 1**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:1
+ INFO: SEND:teste.HTML:1
+ INFO: request:GET /mundo.png HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: image/webp,image/apng,image/*,*/*;q=0.8**DNT: 1**Referer: http://10.20.152.77/teste.HTML**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:2
+ INFO: SEND:mundo.png:2
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: image/webp,image/apng,image/*,*/*;q=0.8**DNT: 1**Referer: http://10.20.152.77/teste.HTML**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:3
+ INFO: SEND:favicon.ico:3
+ INFO: request:GET /test HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8**DNT: 1**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:4
+ INFO: SEND:test:4
+ INFO: request:GET /favicon.ico HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: image/webp,image/apng,image/*,*/*;q=0.8**DNT: 1**Referer: http://10.20.152.77/test**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:5
+ INFO: SEND:favicon.ico:5
+ INFO: Servidor Web iniciando:(null):0
+ INFO: Servidor Web iniciando:(null):0
+ INFO: request:GET /teste.html HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8**DNT: 1**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:1
+ INFO: SEND:teste.html:1
+ INFO: Servidor Web iniciando:(null):0
+ INFO: request:GET /teste.html HTTP/1.1**Host: 10.20.152.77**Connection: keep-alive**Cache-Control: max-age=0**Upgrade-Insecure-Requests: 1**User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 OPR/52.0.2871.40**Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8**DNT: 1**Accept-Encoding: gzip, deflate**Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7****:1
+ INFO: SEND:teste.html:1
